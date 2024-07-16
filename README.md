@@ -15,19 +15,23 @@ This project is a clone of the popular music streaming service Spotify, implemen
 **Backend:** JavaScript
 
 
-## Deployment
-
-Clone Git-Repo
-```bash
-git clone https://github.com/Sayan-das-001/Spotify_Clone.git
-```
-Open the Folder
-```bash
-cd Spotify_Clone
-```
+## Installation
+1. Clone the repository:
+    ```bash
+    git clone https://github.com/Sayan-das-001/Spotify_Clone.git
+    ```
+2. Navigate to the project directory:
+    ```bash
+    cd Spotify_Clone
+    ```
+3. Open `index.html` in your favorite web browser:
+    ```bash
+    open index.html
+    ```
 **VS Code** 
 
-Open the folder and Right-Click on the folder.
+Open the folder and Right-Click on the folder, open with vscode.
+
 
 **Live Server** 
 
@@ -54,4 +58,3 @@ Contributions are always welcome!
 ## License
 
 [ GNU GENERAL PUBLIC LICENSE Version 3](https://choosealicense.com/licenses/gpl-3.0/)
-
